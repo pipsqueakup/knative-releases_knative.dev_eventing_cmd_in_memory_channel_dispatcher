@@ -1,0 +1,2 @@
+from gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_dispatcher@sha256:d271dc40ef6d1161b28b0b61dfa71583e89ad6c8847adeede1a8504fb8f5b908
+MAINTAINER alufer8dock
